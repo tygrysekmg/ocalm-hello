@@ -1,0 +1,5 @@
+"Rule: ocaml: cmx* & o* -> native (%=my_prog )": "\189B\251\155\014\189\2029r\b\153\148t\153\203\241"
+"Resource: /home/wieslawa/my_project/my_prog.ml": "\029\252\022h\218\221\187\173\030i`sb\254\217\158"
+"Rule: ocaml dependencies ml (%=my_prog )": "2;9oEo\230\132`\023\171\145\184w\133t"
+"Rule: ocaml: ml -> cmo & cmi (%=my_prog )": "\134V.\220\145\137\135j\225g\167\003V~\030\167"
+"Rule: ocaml: ml & cmi -> cmx & o (%=my_prog )": "\2298\127gR#\180`\016\149\\\158\201\158\139\251"
